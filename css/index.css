@@ -1,0 +1,56 @@
+.header {
+    background: linear-gradient(to right, #d13f45, #ad1a20);
+    font-weight: bold;
+}
+.title {
+    margin-left: 2%;
+}
+.avatar {
+    width: 4%;
+    margin-left: 1%;
+    margin-right: 3%;
+}
+.user {
+    text-align: end;
+}
+.footer {
+    background-color: #e9e3e9!important;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+.container {
+    text-align: center;
+    margin-top: -0.9%;
+}
+.tables {
+    margin-top: 5%;
+}
+body {
+    background-color: #f4f2ed;
+    color: rgb(72, 72, 72);
+}
+.titleTable, .titleCalc {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(72, 72, 72);
+    margin-bottom: 2.5%;
+}
+table {
+    color: #484848!important;
+}
+.modal {
+    margin-top: 15%!important;
+}
+.modal-body {
+    font-size: 20px;
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
